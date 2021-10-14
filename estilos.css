@@ -1,0 +1,43 @@
+.conteiner{
+    height: 200px;
+    
+}
+
+.table{
+    margin-top: 600px;
+    background-color: black;
+    color: blanchedalmond;
+    margin-bottom: 100px;
+    position: absolute;
+}
+.col{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+}
+h1{
+   margin-block-end: 20px;
+   margin-block-start: 20px;
+}
+
+}
+h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.row{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    }
+h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: absolute;
+}
+img{
+    align-items: center;
+}
+h2{
+    color: blanchedalmond;
+}
